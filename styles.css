@@ -1,0 +1,55 @@
+/* CSS RESESTER */
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: bisque;
+  color: black;
+  overflow-x: hidden;
+}
+
+/* CSS RESESTER */
+
+#gallery {
+  background-image: ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+main {
+  text-align: center;
+}
+a {
+  color: green;
+}
+p {
+  line-height: 2;
+}
+
+nav {
+  height: 60px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+/* WESTING SELEKTOR */
+
+nav a {
+  color: rgb(79, 148, 15);
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+table {
+  text-align: center;
+}
